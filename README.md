@@ -57,9 +57,6 @@
 | Business  | 0.93      | 0.92   | 0.93     |
 | Sci/Tech  | 0.92      | 0.94   | 0.93     |
 
-###  Confusion Matrix
-
-(Добавь сюда изображение или ссылку на `confusion_matrix.png`)
 
 ---
 
